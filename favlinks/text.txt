@@ -1,0 +1,29 @@
+#1
+Web Designer Depot
+Web design resources for Web designers.
+http://www.webdesignerdepot.com/
+
+#2
+Smashing Magazine
+Useful information on Web design- latest trends and techniques, ideas, innovative approaches and tools.
+http://www.smashingmagazine.com/
+
+#3
+CSSmania
+CSSmania, the most updated css showcase all over the globe.
+http://cssmania.com/
+
+#4 
+HTML5 doctor
+Helping you implement HTML5 today.
+http://html5doctor.com/
+
+#5
+HTML Inspiration
+html inspiration selects the best websites developed with HTML and CSS from around the world.
+http://htmlinspiration.com/
+
+#6
+CSS Tricks
+A Web design community.
+http://css-tricks.com/
